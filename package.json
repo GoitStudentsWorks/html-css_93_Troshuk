@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/minimal/",
+    "build": "vite build --base=/html-css_93_Troshuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
